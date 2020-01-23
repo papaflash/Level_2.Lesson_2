@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_Worker", "Task_1_Worker\Task_1_Worker.csproj", "{878B7127-99A6-47F0-B535-AFE128E59C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGameAsteroids", "MyGameAsteroids\MyGameAsteroids.csproj", "{0A9EB19F-6AF3-4779-8DF0-020108903066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878B7127-99A6-47F0-B535-AFE128E59C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878B7127-99A6-47F0-B535-AFE128E59C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878B7127-99A6-47F0-B535-AFE128E59C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878B7127-99A6-47F0-B535-AFE128E59C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9EB19F-6AF3-4779-8DF0-020108903066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9EB19F-6AF3-4779-8DF0-020108903066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9EB19F-6AF3-4779-8DF0-020108903066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9EB19F-6AF3-4779-8DF0-020108903066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE8D344-25CC-4476-A638-BEA8A942CCEA}
+	EndGlobalSection
+EndGlobal
